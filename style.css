@@ -1,0 +1,56 @@
+/* Code for CSS styling should go here (Checkpoints 3 and 4) */
+#link-ee {
+  font-size: 1200%
+}
+
+#top-alert {
+  position: fixed;
+}
+
+body {
+  background-image: linear-gradient(to bottom,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple, 
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple, 
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple, 
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple,
+red, orange, yellow, green, blue, purple
+
+  );
+}
